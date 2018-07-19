@@ -118,3 +118,6 @@ while(i<yaslar.length){
     console.log(yaslar[i]);
     i++;
 }
+
+//github.com/eminbabayev/Reiteration.git
+
