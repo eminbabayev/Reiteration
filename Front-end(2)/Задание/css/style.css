@@ -1,0 +1,14 @@
+
+.quotation{
+    background-image: url("../img/topquote.png");
+    background-position-x: left;
+    background-repeat: no-repeat;
+    background-color: rgb(204, 201, 201);
+    width: 350px;
+    text-align:justify;
+    background-size: auto;
+    margin-top:30px;
+    width: auto;
+    font-size: 29px;
+
+}
