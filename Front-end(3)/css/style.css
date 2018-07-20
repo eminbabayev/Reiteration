@@ -1,0 +1,30 @@
+body{
+    height:583px;
+}
+.menu{
+    background-color: #3AB4A6;
+    margin-right: 10px;
+    height: 100%;  
+}
+.menu li{
+    list-style: none;
+    border-bottom: 5px solid #ffffff;
+    padding: 47px;
+    margin-left: -3.3%;
+    text-indent: 34px;    
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+    font-size: 38px;  
+}
+.menu li:last-child{
+    border-bottom: none;
+}
+.menu li:hover{
+    background-color: rgb(18, 130, 94);
+    border-bottom: 5px solid red;
+}
+.menu li a:hover{
+    color: red;
+}
