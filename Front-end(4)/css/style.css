@@ -1,0 +1,60 @@
+@font-face{
+    font-family: acidic;
+    src: url("../fonts/Acidic.otf");
+}
+.text{
+    font-family: acidic;
+    font-weight: 200;
+    font-style: italic;
+}
+.title{
+    font-family: 'Indie Flower', cursive;
+}
+.menu{
+    text-align: center;
+}
+.menu li{
+    list-style: none;
+    display: inline-block;
+}
+.menu li a{
+    text-decoration: none;
+    padding: 10px;
+
+}
+
+.fa-facebook-f{
+    color: #3b5998;
+    border: 2px solid #3b5998;
+}
+.fa-facebook-f:hover{
+    border: 2px solid #1646ae;
+    color: #1646ae;
+}
+
+
+.fa-instagram{
+    color: #405de6;
+    border: 2px solid #405de6;
+}
+.fa-instagram:hover{
+    color: #5851db;
+    border: 2px solid #5851db;
+}
+
+
+.fa-twitter{
+    color: #1da1f2;
+    border: 2px solid #1da1f2;
+}
+.fa-twitter:hover{
+    color: #14171a;
+    border: 2px solid #14171a; 
+}
+
+i{
+    font-size: 29px;
+    padding: 15px;
+    border-radius: 100%;
+}
+
