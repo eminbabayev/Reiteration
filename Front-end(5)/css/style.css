@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.row .item{
+    width: 25%;
+    border: 1px solid grey;
+    float: left;
+}
+.clearfix{
+    clear: both;
+}
+.color1{
+    height: 125px;
+    background-color: red;
+    width: 25%;
+    float: left;
+}
+.color2{
+    height: 125px;
+    background-color: grey;
+    width: 25%;
+    float: left;
+}
+.color3{
+    height: 125px;
+    background-color: green;
+    width: 25%;
+    float: left;
+}
+.color4{
+    height: 125px;
+    background-color: purple;
+    width: 25%;
+    float: left;
+}
